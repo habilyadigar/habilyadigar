@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://github.com/habilyadigar">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilyadigar&theme=dracula&line_height=10&langs_count=8&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=habilyadigar&show_icons=true&theme=dracula&line_height=27" alt="Habil's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=habilyadigar&show_icons=true&theme=dracula&line_height=24" alt="Habil's github stats"/>
  </a>
 <br>
 
