@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Hi 👋, I'm Habil Yadigar</h3>
 
-<!--
-**habilyadigar/habilyadigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://github.com/habilyadigar">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habilyadigar&theme=dracula&line_height=10&langs_count=8&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=habilyadigar&show_icons=true&theme=dracula&line_height=27" alt="Habil's github stats"/>
+ </a>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+Show some ❤️ by starring some of the repositories!
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
